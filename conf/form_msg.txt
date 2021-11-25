@@ -1,0 +1,7 @@
+[form_msg]
+上面是重点↑
+消息来源：[form_nick]([form_qq])
+当前时间：[form_time]
+对特殊FATE的位置、触发条件有疑问可通过表格内的介绍了解。
+击杀完FATE后请自行修改击杀时间：
+https://docs.qq.com/sheet/DY3BXc3NkbmN4Vktp
